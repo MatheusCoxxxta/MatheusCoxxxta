@@ -16,6 +16,7 @@
   >
     <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&logoColor=white" />
   </a>
+
   <a
     href="https://www.linkedin.com/in/matheus-costa-500695187/" 
     alt="LinkedIn"
