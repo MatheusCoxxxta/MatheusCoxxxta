@@ -1,6 +1,7 @@
-<p align="center">
-# Matheus Costa
-</p>
+
+<h2 align="center">
+  Matheus Costa
+</h2>
 <p>
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
@@ -25,7 +26,10 @@
   </a>
 </p>
 
-## Opa, tudo certo?
+
+<h3 align="center">
+  Opa, tudo certo?
+</h3>
 
 <p align="center">
   Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full     Stack na BifeOn Serviçoes Digitais.
