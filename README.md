@@ -2,7 +2,7 @@
 <h1 align="center">
   Matheus Costa
 </h1>
-<p>
+<p  align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
     alt="WhatsApp"
