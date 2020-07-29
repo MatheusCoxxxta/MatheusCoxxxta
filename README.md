@@ -42,7 +42,7 @@
 <p align="center">
   JavaScript | Node.js | ReactJS | React Native | VueJS
 </p>
-
+<br> <br>
 <h4 align="center">
   #JavaScript4love
-</h4>>
+</h4>
