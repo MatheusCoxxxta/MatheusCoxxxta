@@ -1,7 +1,7 @@
 
-<h2 align="center">
+<h1 align="center">
   Matheus Costa
-</h2>
+</h1>
 <p>
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
@@ -27,15 +27,17 @@
 </p>
 
 
-<h3 align="center">
+<h2 align="center">
   Opa, tudo certo?
-</h3>
+</h2>
 
 <p align="center">
   Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full     Stack na BifeOn Serviçoes Digitais.
 </p>
 
-## Do que eu manjo?
+<h2 align="center">
+  Do que eu manjo?
+</h2>
 
 <p align="center">
   JavaScript | Node.js | ReactJS | React Native | VueJS
