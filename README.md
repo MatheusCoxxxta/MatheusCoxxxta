@@ -2,7 +2,7 @@
 <h1 align="center">
   Matheus Costa
 </h1>
-<p  align="center">
+<p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
     alt="WhatsApp"
@@ -43,7 +43,7 @@
   JavaScript | Node.js | ReactJS | React Native | VueJS
 </p>
 
-<center>
+<p align="center">
 ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true)
-</center>
+</p>
 #JavaScript4love
