@@ -26,6 +26,16 @@
 
 ## Opa, tudo certo?
 
-Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full Stack na BifeOn Serviçoes Digitais.
+<p align="center">
+  Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full     Stack na BifeOn Serviçoes Digitais.
+</p>
+
+## Do que eu manjo?
+
+<p align="center">
+  JavaScript | Node.js | ReactJS | React Native | VueJS
+</p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true)
+
+#JavaScript4love
