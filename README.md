@@ -43,6 +43,7 @@
   JavaScript | Node.js | ReactJS | React Native | VueJS
 </p>
 
+<center>
 ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true)
-
+</center>
 #JavaScript4love
