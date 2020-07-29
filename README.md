@@ -2,23 +2,20 @@
 
 <p>
   <a
-    href="https://web.whatsapp.com/send?phone=+5512988297092" 
+    href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
     alt="WhatsApp"
-    target="_blank"
-  >
+   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
-    href="mailto:matheus.costa2772@gmail.com" 
+    href="mailto:matheus.costa2772@gmail.com" target="_blank"
     alt="Gmail"
-    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/matheus-costa-500695187/" 
+    href="https://www.linkedin.com/in/matheus-costa-500695187/" target="_blank"
     alt="LinkedIn"
-    target="_blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
   </a>
