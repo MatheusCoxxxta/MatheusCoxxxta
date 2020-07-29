@@ -43,4 +43,6 @@
   JavaScript | Node.js | ReactJS | React Native | VueJS
 </p>
 
-#JavaScript4love
+<h2 align="center">
+  #JavaScript4love
+</h2>
