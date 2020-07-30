@@ -32,7 +32,7 @@
 </h2>
 
 <p align="center">
-  Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full     Stack na BifeOn Serviçoes Digitais.
+  Sou o Matheus, tenho 18 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como desenvolvedor Full     Stack na BifeOn Serviços Digitais.
 </p>
 
 <h2 align="center">
