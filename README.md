@@ -36,11 +36,11 @@
 </p>
 
 <h2 align="center">
-  Do que eu manjo?
+  No que eu mando bem?
 </h2>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | VueJS
+  JavaScript | Node.js | ReactJS | React Native | VueJS 
 </p>
 <br> <br>
 <h4 align="center">
