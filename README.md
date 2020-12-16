@@ -44,5 +44,5 @@
 </p>
 <br> <br>
 <h4 align="center">
-  #JavaScript4love
+  #JavaScript4love #TypeScript4Power
 </h4>
