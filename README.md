@@ -1,31 +1,29 @@
-
-<h1 align="center">
+<h2 align="center">
   Matheus Costa
-</h1>
+</h2>
 <p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
     alt="WhatsApp"
     rel="noopener"
    >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&color=informational&logoColor=white" />
   </a>
   <a
     href="mailto:matheus.costa2772@gmail.com" target="_blank"
     alt="Gmail"
     rel="noopener"
   >
-    <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-28A745?style=flat&logo=gmail&color=informational&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/matheus-costa-500695187/" target="_blank"
     alt="LinkedIn"
     rel="noopener"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&color=informational&logoColor=white" />
   </a>
 </p>
-
 
 <h2 align="center">
   Opa, tudo certo?
@@ -40,9 +38,21 @@
 </h2>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | VueJS 
+
+<img src="https://img.shields.io/badge/-JavaScript-28A745?style=flat&logo=JavaScript&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Node.js-28A745?style=flat&logo=Node.js&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-React-28A745?style=flat&logo=React&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-React Native-28A745?style=flat&logo=React&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-VueJS-28A745?style=flat&logo=Vue.js&color=informational&logoColor=white" />
+
 </p>
 <br> <br>
 <h4 align="center">
-  #JavaScript4love #TypeScript4Power
+  #JavaScript4Love #TypeScript4Power
 </h4>
