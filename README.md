@@ -27,7 +27,6 @@
 </p>
 
 <br>
-<br>
 <h2 align="center">
   Opa, tudo certo?
 </h2>
@@ -37,7 +36,6 @@
   Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Software Developer na Zukk.
 </p>
 
-<br>
 <br>
 
 <h2 align="center">
@@ -60,7 +58,7 @@
 <img src="https://img.shields.io/badge/-VueJS-28A745?style=flat&logo=Vue.js&color=informational&logoColor=white" />
 
 </p>
-<br> <br>
+<br>
 
 
 <h2 align="center">
@@ -69,7 +67,6 @@
 <br>
 <div align="center">
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true)
   ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true&theme=dark)
 
 </div>
