@@ -65,7 +65,7 @@
 <br>
 <div align="center">
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true&theme=tokyonight&hide_border=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=24292e)
 
 </div>
 
