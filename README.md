@@ -30,7 +30,6 @@
 <h2 align="center">
   Opa, tudo certo?
 </h2>
-<br>
 
 <p align="center">
   Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Software Developer na Zukk.
@@ -41,7 +40,6 @@
 <h2 align="center">
   No que eu mando bem?
 </h2>
-<br>
 
 <p align="center">
 
