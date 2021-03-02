@@ -1,6 +1,7 @@
 <h2 align="center">
   Matheus Costa
 </h2>
+
 <p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5512988297092" target="_blank"
@@ -25,17 +26,24 @@
   </a>
 </p>
 
+<br>
+<br>
 <h2 align="center">
   Opa, tudo certo?
 </h2>
+<br>
 
 <p align="center">
   Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Software Developer na Zukk.
 </p>
 
+<br>
+<br>
+
 <h2 align="center">
   No que eu mando bem?
 </h2>
+<br>
 
 <p align="center">
 
@@ -53,6 +61,20 @@
 
 </p>
 <br> <br>
+
+
+<h2 align="center">
+ Como está sendo meu 2021 no Github:
+</h2>
+<br>
+<div align="center">
+
+  ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=MatheusCoxxxta&show_icons=true&theme=dark)
+
+</div>
+
+<br>
 <h4 align="center">
   #JavaScript4Love #TypeScript4Power
 </h4>
