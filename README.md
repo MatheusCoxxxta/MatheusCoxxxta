@@ -68,6 +68,8 @@
 
 <img src="https://img.shields.io/badge/-Android-28A745?style=flat&logo=Android&color=informational&logoColor=white" />
 
+</p>
+<br>
 
 <h2 align="center">
  Como está sendo meu 2021 no Github:
