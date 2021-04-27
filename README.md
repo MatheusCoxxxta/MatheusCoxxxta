@@ -58,6 +58,16 @@
 </p>
 <br>
 
+<h2 align="center">
+  O que ando estudando atualmente?
+</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/-Kotlin-28A745?style=flat&logo=Kotlin&color=informational&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Android-28A745?style=flat&logo=Android&color=informational&logoColor=white" />
+
 
 <h2 align="center">
  Como está sendo meu 2021 no Github:
