@@ -32,7 +32,7 @@
 </h2>
 
 <p align="center">
-  Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Software Developer na Zukk.
+  Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Backend Node.js Developer na Fasters.
 </p>
 
 <br>
@@ -64,9 +64,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Kotlin-28A745?style=flat&logo=Kotlin&color=informational&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Android-28A745?style=flat&logo=Android&color=informational&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
 
 </p>
 <br>
