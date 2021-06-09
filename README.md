@@ -45,7 +45,7 @@
 
 <img src="https://img.shields.io/badge/-JavaScript-28A745?style=flat&logo=JavaScript&color=informational&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-28A745?style=flat&logo=Express&color=informational&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Node.js-28A745?style=flat&logo=Node.js&color=informational&logoColor=white" />
 
