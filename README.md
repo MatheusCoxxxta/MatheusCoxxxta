@@ -32,7 +32,7 @@
 </h2>
 
 <p align="center">
-  Sou o Matheus, tenho 19 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Backend Node.js Developer na Fasters.
+  Sou o Matheus, tenho 20 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Backend Node.js Developer na Fasters.
 </p>
 
 <br>
