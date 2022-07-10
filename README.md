@@ -55,7 +55,7 @@
 
 <img src="https://img.shields.io/badge/-VueJS-28A745?style=flat&logo=Vue.js&color=informational&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-AMAZON_AWS-28A745?style=flat&logo=amazon-aws&color=informational&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-28A745?style=flat&logo=amazon-aws&color=informational&logoColor=white" />
   
 <img src="https://img.shields.io/badge/-Docker-28A745?style=flat&logo=Docker&color=informational&logoColor=white" />
   
