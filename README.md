@@ -90,6 +90,11 @@
 
 </div>
 
+<h2 align="center>Conecte-se comingo no Linkedin: </h2>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="omatheus-costa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/omatheus-costa?trk=profile-badge">Matheus Costa</a></div>
+              
+
 <br>
 <h4 align="center">
   #JavaScript4Love #TypeScript4Power
