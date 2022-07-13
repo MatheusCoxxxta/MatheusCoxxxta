@@ -98,9 +98,10 @@ Conecte-se comingo no Linkedin:
     href="https://www.linkedin.com/in/omatheus-costa" target="_blank"
     alt="Linkedin"
     rel="noopener"
+    align="center"
    >
     <img src="https://img.shields.io/badge/-Linkedin | Matheus Costa-28A745?style=flat&logo=Linkedin&color=informational&logoColor=white" />
-  </a>     
+  </a> 
 <br>
 <h4 align="center">
   #JavaScript4Love #TypeScript4Power
