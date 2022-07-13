@@ -93,16 +93,17 @@
 <h2 align="center">
 Conecte-se comingo no Linkedin:
 </h2>
-<br>
-<center>
+
+<p align="center">
   <a
     href="https://www.linkedin.com/in/omatheus-costa" target="_blank"
     alt="Linkedin"
     rel="noopener"
    >
     <img src="https://img.shields.io/badge/-Linkedin | Matheus Costa-28A745?style=flat&logo=Linkedin&color=informational&logoColor=white" />
-  </a> 
-</center>
+  </a>
+</p>
+
 <br>
 <h4 align="center">
   #JavaScript4Love #TypeScript4Power
