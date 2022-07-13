@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h2 align="center">
   Matheus Costa
 </h2>
@@ -97,8 +95,13 @@ Conecte-se comingo no Linkedin:
 </h2>
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="omatheus-costa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/omatheus-costa?trk=profile-badge">Matheus Costa</a></div>
-              
+  <a
+    href="https://www.linkedin.com/in/omatheus-costa" target="_blank"
+    alt="Linkedin"
+    rel="noopener"
+   >
+    <img src="https://img.shields.io/badge/-Linkedin | Matheus Costa-28A745?style=flat&logo=Linkedin&color=informational&logoColor=white" />
+  </a>     
 
 <br>
 <h4 align="center">
