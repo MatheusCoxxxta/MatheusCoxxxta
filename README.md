@@ -75,6 +75,7 @@
 
 <img src="https://img.shields.io/badge/-Microservices-28A745?style=flat&logo=google-cloud&color=informational&logoColor=white" />
 <img src="https://img.shields.io/badge/-Serverless-28A745?style=flat&logo=serverless&color=informational&logoColor=white" />
+<img src="https://img.shields.io/badge/-GraphQL-28A745?style=flat&logo=graphql&color=informational&logoColor=white" />
   
 
 </p>
