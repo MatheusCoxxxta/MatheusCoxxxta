@@ -7,9 +7,9 @@
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
-- 👨‍💻 All of my projects are available at [github.com/MatheusCoxxxta](github.com/MatheusCoxxxta)
+- 👨‍💻 All of my projects are available on [Github](https://www.github.com/MatheusCoxxxta)
 
-- 📝 I regularly write articles on [Medium Profile](medium.com/@MatheusCoxta)
+- 📝 I regularly write articles on [Medium Profile](https://www.medium.com/@MatheusCoxta)
 
 - 💬 Ask me about **Clean Architecture, Node.js, TDD, Clean Code, Backend**
 
