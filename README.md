@@ -28,7 +28,7 @@
 
 <br>
 <h2 align="center">
-  Opa, tudo certo?
+  Hey, how's it going?
 </h2>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <br>
 <h2 align="center">
-  Escrevo em
+  Wrinting in
 </h2>
 
 <p align="center">
@@ -48,7 +48,7 @@
 <br>
 
 <h2 align="center">
- Em que estou contribuindo
+ I'm contributing to
 </h2>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 
 <h2 align="center">
-  No que eu mando bem?
+  I can conquer you using...
 </h2>
 
 <p align="center">
@@ -85,7 +85,7 @@
 <br>
 
 <h2 align="center">
-  O que ando estudando atualmente?
+  I am learning more about...
 </h2>
 
 <p align="center">
@@ -99,7 +99,7 @@
 <br>
 
 <h2 align="center">
- Como está sendo meu 2022 no Github:
+ My 2022 on Github
 </h2>
 <br>
 <div align="center">
