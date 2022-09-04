@@ -72,21 +72,13 @@
 
 <img src="https://img.shields.io/badge/-Node.js-28A745?style=flat&logo=Node.js&color=informational&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-React-28A745?style=flat&logo=React&color=informational&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-React Native-28A745?style=flat&logo=React&color=informational&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-VueJS-28A745?style=flat&logo=Vue.js&color=informational&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-AWS-28A745?style=flat&logo=amazon-aws&color=informational&logoColor=white" />
   
 <img src="https://img.shields.io/badge/-Docker-28A745?style=flat&logo=Docker&color=informational&logoColor=white" />
   
 <img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
   
-<img src="https://img.shields.io/badge/-Clean Architecture-28A745?style=flat&logo=Internet Archive&color=informational&logoColor=white" />
-  
-  
+<img src="https://img.shields.io/badge/-Software Architecture / Clean Architecture-28A745?style=flat&logo=Internet Archive&color=informational&logoColor=white" />
  
 
 </p>
