@@ -37,7 +37,7 @@
 
 <br>
 <h2 align="center">
-  Wrinting in
+  Writting in
 </h2>
 
 <p align="center">
