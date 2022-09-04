@@ -32,8 +32,7 @@
 </h2>
 
 <p align="center">
-  
-I am a passionate for technology and I was working as software engineer for the last 3 years. I'm currently working at Fasters as Node.js Backend Engineer, a position I started in 2021.
+  I am a passionate for technology and I was working as software engineer for the last 3 years. I'm currently working at Fasters as Node.js Backend Engineer, a position I started in 2021.
 </p>
 
 <br>
