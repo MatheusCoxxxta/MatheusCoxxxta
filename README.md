@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/MatheusCoxxxta](github.com/MatheusCoxxxta)
 
-- 📝 I regularly write articles on [Medium Profile @MatheusCoxta](medium.com/@MatheusCoxta)
+- 📝 I regularly write articles on [Medium Profile](medium.com/@MatheusCoxta)
 
 - 💬 Ask me about **Clean Architecture, Node.js, TDD, Clean Code, Backend**
 
