@@ -38,6 +38,18 @@
 <br>
 
 <h2 align="center">
+ Em que estou contribuindo
+</h2>
+
+<a href="https://github.com/opensource-courses/courses" align="center">
+ <img src="https://img.shields.io/badge/-OpenSource Courses-28A745?style=flat&logo=book&color=informational&logoColor=white" />
+</a>
+
+<br>
+
+
+
+<h2 align="center">
   No que eu mando bem?
 </h2>
 
