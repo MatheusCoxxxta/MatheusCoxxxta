@@ -36,6 +36,16 @@
 </p>
 
 <br>
+<h2 align="center">
+  Escrevo em
+</h2>
+
+<p align="center">
+  <a href="https://medium.com/@MatheusCoxta">
+   <img src="https://img.shields.io/badge/-Medium-28A745?style=flat&logo=Medium&color=informational&logoColor=white" />
+  </a>
+</p>
+<br>
 
 <h2 align="center">
  Em que estou contribuindo
@@ -43,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/opensource-courses/courses">
-   <img src="https://img.shields.io/badge/-OpenSource Courses-28A745?style=flat&logo=class&color=informational&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OpenSource%20Courses-28A745?style=flat&logo=BookStack&color=informational&logoColor=white" />
   </a>
 </p>
 <br>
@@ -74,6 +84,8 @@
   
 <img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
   
+<img src="https://img.shields.io/badge/-Clean Architecture-28A745?style=flat&logo=Internet Archive&color=informational&logoColor=white" />
+  
   
  
 
@@ -87,7 +99,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/-Microservices-28A745?style=flat&logo=google-cloud&color=informational&logoColor=white" />
-<img src="https://img.shields.io/badge/-Serverless-28A745?style=flat&logo=serverless&color=informational&logoColor=white" />
 <img src="https://img.shields.io/badge/-GraphQL-28A745?style=flat&logo=graphql&color=informational&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nest-28A745?style=flat&logo=nestjs&color=informational&logoColor=white" />
   
