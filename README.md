@@ -32,7 +32,8 @@
 </h2>
 
 <p align="center">
-  Sou o Matheus, tenho 20 anos, e amo tecnologia! Comecei meus estudos na área em 2017 e venho atuando desde o final de 2019. Hoje atuo como Backend Node.js Developer na Fasters.
+  
+I am a passionate for technology and I was working as software engineer for the last 3 years. I'm currently working at Fasters as Node.js Backend Engineer, a position I started in 2021.
 </p>
 
 <br>
@@ -41,7 +42,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://medium.com/@MatheusCoxta">
+  <a href="https://medium.com/@MatheusCoxta" target="_blank">
    <img src="https://img.shields.io/badge/-Medium/@MatheusCoxta-28A745?style=flat&logo=Medium&color=informational&logoColor=white" />
   </a>
 </p>
@@ -52,7 +53,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/opensource-courses/courses">
+  <a href="https://github.com/opensource-courses/courses" target="_blank">
    <img src="https://img.shields.io/badge/-OpenSource%20Courses-28A745?style=flat&logo=BookStack&color=informational&logoColor=white" />
   </a>
 </p>
