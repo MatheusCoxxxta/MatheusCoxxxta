@@ -78,7 +78,7 @@
   
 <img src="https://img.shields.io/badge/-TypeScript-28A745?style=flat&logo=TypeScript&color=informational&logoColor=white" />
   
-<img src="https://img.shields.io/badge/-Software Architecture / Clean Architecture-28A745?style=flat&logo=Internet Archive&color=informational&logoColor=white" />
+<img src="https://img.shields.io/badge/-Software Architecture and Clean Architecture-28A745?style=flat&logo=Internet Archive&color=informational&logoColor=white" />
  
 
 </p>
