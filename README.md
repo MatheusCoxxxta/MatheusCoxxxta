@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/MatheusCoxxxta](github.com/MatheusCoxxxta)
 
-- 📝 I regularly write articles on [medium.com/@MatheusCoxta](medium.com/@MatheusCoxta)
+- 📝 I regularly write articles on [Medium Profile @MatheusCoxta](medium.com/@MatheusCoxta)
 
 - 💬 Ask me about **Clean Architecture, Node.js, TDD, Clean Code, Backend**
 
 - 📫 How to reach me **matheus.costa2772@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/omatheus-costa](linkedin.com/in/omatheus-costa)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/omatheus-costa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
