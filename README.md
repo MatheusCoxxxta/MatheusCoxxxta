@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://medium.com/@MatheusCoxta">
-   <img src="https://img.shields.io/badge/-Medium-28A745?style=flat&logo=Medium&color=informational&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Medium/@MatheusCoxta-28A745?style=flat&logo=Medium&color=informational&logoColor=white" />
   </a>
 </p>
 <br>
