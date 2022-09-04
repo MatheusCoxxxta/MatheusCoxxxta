@@ -41,11 +41,11 @@
  Em que estou contribuindo
 </h2>
 
-<center>
+<p align="center">
   <a href="https://github.com/opensource-courses/courses">
-   <img src="https://img.shields.io/badge/-OpenSource Courses-28A745?style=flat&logo=books&color=informational&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OpenSource Courses-28A745?style=flat&logo=study&color=informational&logoColor=white" />
   </a>
-</center>
+</p>
 <br>
 
 
