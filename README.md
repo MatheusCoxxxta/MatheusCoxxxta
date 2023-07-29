@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dropull](https://www.dropull.gg)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Golang**
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
