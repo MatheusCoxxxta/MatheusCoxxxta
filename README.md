@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate Backend Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Dropull](https://www.dropull.gg)
+- 🔭 I’m currently working on [Cannect](https://www.cannect-life)
 
 - 🌱 I’m currently learning **Golang**
 
