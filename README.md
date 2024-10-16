@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fasters](https://www.fasters.com.br/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
