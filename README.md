@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A passionate Backend Engineer from Brazil</h3>
+<h3 align="center">Experienced Backend Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on [MB Labs](https://mblabs.com.br/)
 
