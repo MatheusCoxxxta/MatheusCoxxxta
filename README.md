@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate Backend Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Fasters](https://www.fasters.com.br/)
+- 🔭 I’m currently working on [MB Labs](https://mblabs.com.br/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Scalability**.
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
 - 👨‍💻 All of my projects are available on [Github](https://www.github.com/MatheusCoxxxta)
 
-- 📝 I regularly write articles on [Medium](https://www.medium.com/@MatheusCoxta)
+- 📝 I regularly (not much) write articles on [Medium](https://www.medium.com/@MatheusCoxta)
 
 - 💬 Ask me about **Clean Architecture, Node.js, TDD, Clean Code, Backend**
 
