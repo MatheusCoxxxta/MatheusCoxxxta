@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/omatheus-costa)
 
+- My own products: [MiniURL.xyz](https://www.mini-url.xyz)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@matheuscoxta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matheuscoxta" height="30" width="40" /></a> 
