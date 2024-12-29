@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/omatheus-costa)
 
-- My own products: [MiniURL](https://www.mini-url.xyz)
+- 🚀 My own products: [🔗 MiniURL](https://www.mini-url.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
