@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MB Labs](https://mblabs.com.br/)
 
-- 🌱 I’m currently learning **Java** and **Scalability**.
+- 🌱 I’m currently learning **Perfomance**, **Scalability** and **Mentorship".
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly (not much) write articles on [Medium](https://www.medium.com/@MatheusCoxta)
 
-- 💬 Ask me about **Clean Architecture, Node.js, TDD, Clean Code, Backend**
+- 💬 Ask me about **Node.js, TDD, Backend**
 
 - 📫 How to reach me **matheus.costa2772@gmail.com**
 
