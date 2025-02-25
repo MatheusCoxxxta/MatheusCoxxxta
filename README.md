@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MB Labs](https://mblabs.com.br/)
 
-- 🌱 I’m currently learning **Perfomance**, **Scalability** and **Mentorship".
+- 🌱 I’m currently learning **Scalability** and **Mentorship**.
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
