@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Experienced Backend Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Allp Fit](https://allpfit.com.br) as Tech Lead
+- 🔭 I’m currently leading a team at [Allp Fit](https://allpfit.com.br)
 
 - 🌱 I’m currently learning **Scalability** and **Team Management**.
 
