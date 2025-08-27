@@ -11,13 +11,11 @@
 
 - 📝 I regularly (not much) write articles on [Medium](https://www.medium.com/@MatheusCoxta)
 
-- 💬 Ask me about **Node.js, Backend**
+- 💬 Ask me about **Node.js and Backend**
 
 - 📫 How to reach me **matheus.costa2772@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/omatheus-costa)
-
-- 🚀 My own products: [MiniURL](https://www.mini-url.xyz) 🔗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
