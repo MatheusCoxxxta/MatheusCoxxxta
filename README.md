@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Go**, **System Design** and **Team Management**.
 
+- 🐾 I’m building and looking for contributors for [OnçaMQ](https://github.com/MatheusCoxxxta/oncamq), a brazilian BullMQ consumer for Go
+
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
 - 👨‍💻 All of my projects are available on [Github](https://www.github.com/MatheusCoxxxta)
