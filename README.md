@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently leading a team at [Allp Fit](https://allpfit.com.br)
 
-- 🌱 I’m currently learning **Kubernetes**, **System Design** and **Team Management**.
+- 🌱 I’m currently learning **Go**, **System Design** and **Team Management**.
 
 - 🤝 I’m helping and looking for help with [Open-source Courses](https://github.com/opensource-courses)
 
